@@ -14,9 +14,10 @@ const Greeting = () => {
     return (
         <div>
           <Link to="/">Back to Home </Link>
-          <p>{greeting.greeting}</p>    
+          <p>{greeting.greeting}</p>
         </div>
     )
+
 }
 
 export default Greeting;
