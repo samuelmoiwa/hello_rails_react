@@ -8,29 +8,30 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-- [Key Features](#key-features) 
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
-- [📝 License](#license)
+- [📗 Table of Contents](#-table-of-contents)
+- [Blog App ](#blog-app-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+  - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [Acknowledgments](#acknowledgments)
+  - [❓ FAQ ](#-faq-)
+  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
 # Blog App <a name="about-project"></a>
 
 
-**Greeting App** is a web application with react connected to rails where a random greeting is generated from a backend api. 
+**Hello Rails React App** is a web application with react connected to rails where a random greeting is generated from a backend api.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -79,7 +80,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd desired/folder
-  git clone https://github.com/Jaymelfah/react-rails.git
+  git clone https://github.com/samuelmoiwa/hello_rails_react
 ```
 
 ### Install
@@ -102,10 +103,11 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Jeremiah Melfah**
+👤 **Abdulai Samuel Moiwa**
 
-- GitHub: [GitHub](https://github.com/Jaymelfah)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jeremiah-ekow-melfah-a4402a161/)
+- GitHub: [@githubhandle](https://github.com/samuelmoiwa)
+- Twitter: [@twitterhandle](https://twitter.com/samuelmoiwa)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ing-abdulai-samue
 
 
 <p align="right"><a href="#readme-top">back to top</a></p>
