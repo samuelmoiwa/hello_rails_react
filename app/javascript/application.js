@@ -7,10 +7,12 @@ import store from './redux/configureStore';
 
 
 ReactDOM.render(
+
   <Provider store={store}>
     <Routers>
       <App/>
     </Routers>
   </Provider>,
+
   document.getElementById('root'),
 );
