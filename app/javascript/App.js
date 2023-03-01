@@ -6,11 +6,13 @@ import Home from './components/Home';
 function App() {
   return (
     <div>
+
       <Link to="/greeting">Greetings</Link>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/greeting" element={<Greeting/>} />
       </Routes>
+
     </div>
   )
 }
